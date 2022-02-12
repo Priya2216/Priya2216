@@ -15,7 +15,7 @@
   ![Deep Learning](https://img.shields.io/badge/NN-Deep%20Learning-blue)
   ![Natural Language Programming](https://img.shields.io/badge/NLP-Natural%20Language%20Programming-blue)
 - 🌐 &nbsp;
-  ![C](https://img.shields.io/badge/C-C%20Language-black)
+  ![C](https://img.shields.io/badge/C-C%20Language-blue)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🛢 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -44,11 +44,32 @@
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://Priya2216.github.io/CodeVenture"><img alt="Website" src="https://img.shields.io/badge/Website-www.Priya2216.github.io%2FCodeVenture-blue%3Fstyle%3Dflat--square%26logo%3Dgoogle--chrome"></a><br/>
+<a href="https://www.linkedin.com/in/priya2216"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Priya%20Raut-blue%3Fstyle%3Dflat--square%26logo%3Dlinkedin"></a> <br/>
+<a href="mailto:priyaraut77492@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMail-priyaraut77492%40gmail.com-blue%3Fstyle%3Dflat--square%26logo%3Dgmail"></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
-
-
-
-
 **Priya2216/Priya2216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
