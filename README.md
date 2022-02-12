@@ -47,7 +47,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://Priya2216.github.io/CodeVenture"><img alt="Website" src="https://img.shields.io/badge/Website-www.Priya2216.github.io%2FCodeVenture-blue%3Fstyle%3Dflat--square%26logo%3Dgoogle--chrome"></a><br/>
+<a href="https://priyaraut77492.wixsite.com/website"><img alt="Website" src="https://img.shields.io/badge/Website-https://priyaraut77492.wixsite.com-blue%3Fstyle%3Dflat--square%26logo%3Dgoogle--chrome"></a><br/>
 <a href="https://www.linkedin.com/in/priya2216"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Priya%20Raut-blue%3Fstyle%3Dflat--square%26logo%3Dlinkedin"></a> <br/>
 <a href="mailto:priyaraut77492@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMail-priyaraut77492%40gmail.com-blue%3Fstyle%3Dflat--square%26logo%3Dgmail"></a>
 </p>
