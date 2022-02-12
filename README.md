@@ -14,8 +14,10 @@
   ![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-black)
   ![Deep Learning](https://img.shields.io/badge/NN-Deep%20Learning-black)
   ![Natural Language Programming](https://img.shields.io/badge/NLP-Natural%20Language%20Programming-black)
+- 🌐 &nbsp
   ![C](https://img.shields.io/badge/C-C%20Language-black)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🛢 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
  
   
