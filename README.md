@@ -14,6 +14,8 @@
   ![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-blue)
   ![Deep Learning](https://img.shields.io/badge/NN-Deep%20Learning-blue)
   ![Natural Language Programming](https://img.shields.io/badge/NLP-Natural%20Language%20Programming-blue)
+  ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Computer%20Vision-blue)
+  ![Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence-Artificial%20Intelligence-blue)
 - 🌐 &nbsp;
   ![C](https://img.shields.io/badge/C-C%20Language-blue)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
