@@ -3,7 +3,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Currently working as NLP Engineer -intern(full time) in Dimensionless Technology Pvt ltd 
+- 💼 &nbsp; Currently working as Software Engineer in ORNET Technolgies Pvt.Ltd.
+- 💼 &nbsp; Experience NLP Engineer as a intern(full time) in Dimensionless Technology Pvt. ltd. 
 - 💼 &nbsp; looking for opportunity in Data Science or Data Analytics.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuring PG in Data Science course in IT Vedant Institute.
