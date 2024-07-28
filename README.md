@@ -21,9 +21,14 @@
 - 🌐 &nbsp;
   ![C](https://img.shields.io/badge/C-C%20Language-blue)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![NodeJs]
+  ![NodeJs](https://img.shields.io/badge/N%20-NodeJs%20-%20blue)
+- 🛢 &nbsp;
+  ![DataBase](https://img.shields.io/badge/NOSQL%20-%20MONGO%20DB%20-%20blue)
+  ![DataBase](https://img.shields.io/badge/SQL%20-%20SQL%20DB%20-%20blue)
+  ![DataBase](https://img.shields.io/badge/SQL%20-%20POSTGRES%20DB%20-%20blue)
 - 🛢 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/CSS%20-%20blue)
  
   
   
