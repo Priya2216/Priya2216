@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Currently working as Software Developer in ORNET Technolgies Pvt.Ltd.
+- 💼 &nbsp; Currently working as Data Scientist in ORNET Technolgies Pvt.Ltd.
 - 💼 &nbsp; Experience NLP Engineer as a intern(full time) in Dimensionless Technology Pvt. ltd. 
 - 💼 &nbsp; looking for opportunity in SDE or Data Science.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -38,12 +38,6 @@
   <pre>
   A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
   technical systems to create impact.<br>
-  My name describes my qualities,
-  P: Passionate
-  R: Responsible
-  I: Intelligent
-  Y: Youthful
-  A: Active Learner
   </pre>
   </details>
   
