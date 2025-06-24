@@ -4,9 +4,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Currently working as Data Scientist in ORNET Technolgies Pvt.Ltd.
+- 🌱 &nbsp; I’m currently learning Gen AI, RAG, LLM, AWS, CI/CD pipelines, Docker, Kubernetes, Terraform, and GitLab
+- 👯 &nbsp; I’m looking for exciting opportunities in Python Backend Development, Machine Learning, and DevOps Engineering
+- 💬 &nbsp; Ask me about Python, Databases, Backend Solutions & API Development
 - 💼 &nbsp; Experience NLP Engineer as a intern(full time) in Dimensionless Technology Pvt. ltd. 
-- 💼 &nbsp; looking for opportunity in SDE or Data Science.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuring PG in Data Science course in IT Vedant Institute.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -30,7 +31,13 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/CSS%20-%20blue)
  
-  
+  ---
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Priya2216&show_icons=true&hide_title=true&count_private=true&show_owner=true&hide=prs" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priya2216&layout=compact&hide_title=true&langs_count=6" alt="Languages" />
+</p>
+
   
 <h3>The Questions You May Have 😕</h3>
 <details>
