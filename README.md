@@ -8,7 +8,7 @@
 - 👯 &nbsp; I’m looking for exciting opportunities in Python Backend Development, Machine Learning, and DevOps Engineering
 - 💬 &nbsp; Ask me about Python, Databases, Backend Solutions & API Development
 - 💼 &nbsp; Experience NLP Engineer as a intern(full time) in Dimensionless Technology Pvt. ltd. 
-- 🎓 &nbsp; Pursuring PG in Data Science course in IT Vedant Institute.
+- 🎓 &nbsp; PG in Data Science course in IT Vedant Institute.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -38,6 +38,12 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priya2216&layout=compact&hide_title=true&langs_count=6" alt="Languages" />
 </p>
 
+<h3 align="center">🔥 GitHub Contributions</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya2216&theme=github-compact&hide_title=true" alt="GitHub Activity Graph" />
+</div>
+
+
   
 <h3>The Questions You May Have 😕</h3>
 <details>
@@ -57,12 +63,24 @@
 
 </ul>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+---
 
+<h3 align="center">💬 Connect with Me:</h3>
 <p align="center">
-<a href="https://priyaraut77492.wixsite.com/website"><img alt="Website" src="https://img.shields.io/badge/Website-https://priyaraut77492.wixsite.com-blue%3Fstyle%3Dflat--square%26logo%3Dgoogle--chrome"></a><br/>
-<a href="https://www.linkedin.com/in/priya2216"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Priya%20Raut-blue%3Fstyle%3Dflat--square%26logo%3Dlinkedin"></a> <br/>
-<a href="mailto:priyaraut77492@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMail-priyaraut77492%40gmail.com-blue%3Fstyle%3Dflat--square%26logo%3Dgmail"></a>
+   <a href="https://www.linkedin.com/in/priya2216/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+   </a>
+   <a href="https://instagram.com/priyaraut_46" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+   </a>
+   <a href="https://wa.me/+919975268464" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
+</p>
+
+<h3 align="center">✨ Visitor Count</h3>
+<p align="center">
+   <img src="https://profile-counter.glitch.me/Priya2216/count.svg" alt="Visitor Count" />
 </p>
 
 
