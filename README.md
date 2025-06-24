@@ -31,19 +31,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/CSS%20-%20blue)
  
-  ---
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Priya2216&show_icons=true&hide_title=true&count_private=true&show_owner=true&hide=prs" alt="GitHub Stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priya2216&layout=compact&hide_title=true&langs_count=6" alt="Languages" />
-</p>
-
-<h3 align="center">🔥 GitHub Contributions</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya2216&theme=github-compact&hide_title=true" alt="GitHub Activity Graph" />
-</div>
-
-
+ ---
   
 <h3>The Questions You May Have 😕</h3>
 <details>
@@ -64,6 +52,19 @@
 </ul>
 
 ---
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Priya2216&show_icons=true&hide_title=true&count_private=true&show_owner=true&hide=prs" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priya2216&layout=compact&hide_title=true&langs_count=6" alt="Languages" />
+</p>
+
+---
+<h3 align="center">🔥 GitHub Contributions</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya2216&theme=github-compact&hide_title=true" alt="GitHub Activity Graph" />
+</div>
+
+---
 
 <h3 align="center">💬 Connect with Me:</h3>
 <p align="center">
@@ -78,6 +79,7 @@
 </a>
 </p>
 
+---
 <h3 align="center">✨ Visitor Count</h3>
 <p align="center">
    <img src="https://profile-counter.glitch.me/Priya2216/count.svg" alt="Visitor Count" />
